@@ -23,7 +23,7 @@
             },
             "sources" : [
                 "https://twitter.com/VicGovDH/status/1416167798472994816",
-                        "https://www.theage.com.au/national/australia-covid-news-live-nsw-looks-to-clamp-down-on-lockdown-retail-victoria-s-exposure-sites-top-155-20210716-p58ai9.html?post=p52hwj#p52hwj"
+                "https://www.theage.com.au/national/australia-covid-news-live-nsw-looks-to-clamp-down-on-lockdown-retail-victoria-s-exposure-sites-top-155-20210716-p58ai9.html?post=p52hwj#p52hwj"
             ]
         },
         {
@@ -41,6 +41,26 @@
                 "isolated": 0,
                 "community": 0,
                 "unknown": 16
+            },
+            "sources" : [
+                "https://twitter.com/VicGovDH/status/1416540240211288065"
+            ]
+        },
+        {
+            "day": 2,
+            "time": "1626648628",
+            "deaths": 0,
+            "activeCases": 81,
+            "tests": 54839,
+            "caseNumbers": {
+                "overseas": 1,
+                "local": 13,
+                "interstate": 0
+            },
+            "caseState": {
+                "isolated": 0,
+                "community": 0,
+                "unknown": 13
             },
             "sources" : [
                 "https://twitter.com/VicGovDH/status/1416540240211288065"
