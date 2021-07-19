@@ -54,13 +54,13 @@
             "tests": 54839,
             "caseNumbers": {
                 "overseas": 1,
-                "local": 13,
+                "local": 17,
                 "interstate": 0
             },
             "caseState": {
                 "isolated": 0,
                 "community": 0,
-                "unknown": 13
+                "unknown": 17
             },
             "sources" : [
                 "https://twitter.com/VicGovDH/status/1416540240211288065"
